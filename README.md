@@ -4,6 +4,8 @@ This Python demo was prepared for my review of the **LattePanda Mu Ultra**, powe
 
 The application combines **YOLO26, OpenVINO, MediaPipe, and OpenCV** to demonstrate several computer vision tasks using a USB webcam.
 
+![Demo Application](demo_hand_full_screenshot.png)
+
 ## Features
 
 - Real-time depth estimation using a YOLO26 depth model, displayed as a color overlay
